@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yoggaac.github.io/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/yoggaac.github.io/static/js/main.edabac24.chunk.js",
+    "main.js.map": "/yoggaac.github.io/static/js/main.edabac24.chunk.js.map",
+    "runtime-main.js": "/yoggaac.github.io/static/js/runtime-main.ec58e347.js",
+    "runtime-main.js.map": "/yoggaac.github.io/static/js/runtime-main.ec58e347.js.map",
+    "static/js/2.501c805d.chunk.js": "/yoggaac.github.io/static/js/2.501c805d.chunk.js",
+    "static/js/2.501c805d.chunk.js.map": "/yoggaac.github.io/static/js/2.501c805d.chunk.js.map",
+    "static/js/3.f7dd9b4f.chunk.js": "/yoggaac.github.io/static/js/3.f7dd9b4f.chunk.js",
+    "static/js/3.f7dd9b4f.chunk.js.map": "/yoggaac.github.io/static/js/3.f7dd9b4f.chunk.js.map",
+    "index.html": "/yoggaac.github.io/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/yoggaac.github.io/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.501c805d.chunk.js.LICENSE.txt": "/yoggaac.github.io/static/js/2.501c805d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec58e347.js",
+    "static/js/2.501c805d.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.edabac24.chunk.js"
+  ]
+}
