@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/yoggaac.github.io/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/yoggaac.github.io/static/js/main.edabac24.chunk.js",
-    "main.js.map": "/yoggaac.github.io/static/js/main.edabac24.chunk.js.map",
+    "main.js": "/yoggaac.github.io/static/js/main.c8a46912.chunk.js",
+    "main.js.map": "/yoggaac.github.io/static/js/main.c8a46912.chunk.js.map",
     "runtime-main.js": "/yoggaac.github.io/static/js/runtime-main.ec58e347.js",
     "runtime-main.js.map": "/yoggaac.github.io/static/js/runtime-main.ec58e347.js.map",
     "static/js/2.501c805d.chunk.js": "/yoggaac.github.io/static/js/2.501c805d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ec58e347.js",
     "static/js/2.501c805d.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.edabac24.chunk.js"
+    "static/js/main.c8a46912.chunk.js"
   ]
 }
