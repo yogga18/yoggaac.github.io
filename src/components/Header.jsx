@@ -7,6 +7,8 @@ import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 // React Scroll Effect
 import { Link as Scroll } from 'react-scroll'
 
+// import assets from '../../assets/bg.jpeg'
+
 
 const useStyles = makeStyles((theme) => ({
     root: {

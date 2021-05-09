@@ -2,7 +2,7 @@ const places = [
     {
         title: "Movies Apps",
         description: "This project is built in React.js by taking resources from the Tmdb API",
-        imageUrl: process.env.PUBLIC_URL + "https://user-images.githubusercontent.com/64015271/117008991-7bed4d80-ad15-11eb-9a40-b25e03062c24.png",
+        imageUrl: process.env.PUBLIC_URL + "/img/detail-moviedb.png",
         demoApps: "https://react01movedb.netlify.app/",
         github: "https://github.com/yogga18/moviedb.git",
         time: "1500",
@@ -10,7 +10,7 @@ const places = [
     {
         title: "Todo Apps",
         description: "This project was created using React.js and is integrated with Firebase, Auth, Realtime Databases",
-        imageUrl: process.env.PUBLIC_URL + "https://user-images.githubusercontent.com/64015271/116966698-f8166f80-acda-11eb-8164-450ee4d50a42.PNG",
+        imageUrl: process.env.PUBLIC_URL + "/img/4.png",
         demo: "https://todoapp-b8d12.web.app/",
         github: "https://github.com/yogga18/react-todoapp.git",
         time: "1600",

@@ -17,7 +17,8 @@ import Content from './components/Content';
 const useStyles = makeStyles((theme) => ({
   root: {
     minHeight: "100vh",
-    backgroundImage: `url(${process.env.PUBLIC_URL + "https://user-images.githubusercontent.com/64015271/117535291-55822780-b01f-11eb-9aaf-ec86f5e2804e.png"})`,
+    // backgroundImage: "url(" + "https://images.pexels.com/photos/1154510/pexels-photo-1154510.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940" + ")",
+    backgroundImage: `url(${process.env.PUBLIC_URL + "/img/bg.jpeg"})`,
     backgroundRepeat: 'no-repeat',
     backgroundSize: 'cover',
   },
